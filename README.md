@@ -69,7 +69,7 @@ Focuses on intuitive design and mobile responsiveness.
 ## 📬 Let's Connect
 
 - 📧 Email: [suhasigadge1325@gmail.com](mailto:suhasigadge1325@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/suhasigadge)
+- 💼 [LinkedIn](https://linkedin.com/in/suhasi-gadge)
 - 📝 [Medium](https://medium.com/@suhasigadge) – Check out my technical blogs
 - 🌐 [Personal Website]()
 
