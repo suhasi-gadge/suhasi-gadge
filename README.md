@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Suhasi Gadge
 
 📊 2+ YOE **Data Analyst | Supply Chain Analyst | Operations Analyst**
+
 🎓 MS in Computer Science (Data & Analytics Focus) 
+
 📍 United States  
 
 I build analytics solutions that help businesses understand performance, uncover root causes, and make better operational decisions.
