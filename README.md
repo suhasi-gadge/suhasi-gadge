@@ -101,7 +101,7 @@ My technical background allows me to ensure insights are **accurate, scalable, a
 **Impact narrative**
 > Translated demand forecasts into actionable inventory decisions by balancing service levels, stockout risk, and holding cost.
 
-🔗 Repository: **Demand_Forecasting_Inventory_Analytics**
+🔗 **Repository**: [Demand_Forecasting_Inventory_Analytics](https://github.com/suhasi-gadge/Demand_Forecasting_Inventory_Analytics)
 
 ---
 
