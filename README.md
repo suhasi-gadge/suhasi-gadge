@@ -107,7 +107,7 @@ My technical background allows me to ensure insights are **accurate, scalable, a
 
 ## 🏫 Consulting-Style & Applied Analytics Work
 
-Alongside portfolio projects, I work on **consulting-style analytics problems** where requirements are ambiguous and business context matters as much as technical execution.
+Alongside portfolio projects, I work on [**consulting-style analytics problems**](https://github.com/suhasi-gadge/Open_Avenues_Build_Fellowship_Projects) where requirements are ambiguous and business context matters as much as technical execution.
 
 These projects emphasize:
 - Problem framing and assumption definition
