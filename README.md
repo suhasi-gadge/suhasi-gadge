@@ -78,7 +78,7 @@ My technical background allows me to ensure insights are **accurate, scalable, a
 **Impact narrative**
 > Built a delivery performance command center that identified delay drivers across sellers, regions, and product categories, and quantified the impact of late deliveries on customer satisfaction.
 
-🔗 Repository: **OTIF_Delivery_Performance_Analysis**
+🔗 Repository: **OTIF_Delivery_Performance_Analysis**(https://github.com/suhasi-gadge/OTIF_Delivery_Performance_Analysis)
 
 ---
 
