@@ -33,8 +33,11 @@ I'm a data analyst who loves digging into complex, multi-domain datasets to unco
 
 ## 📈 GitHub Stats
 
-![Suhasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhasi-gadge&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasi-gadge&layout=compact&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=suhasi-gadge&color=blue&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/suhasi-gadge?label=Followers&style=flat-square)](https://github.com/suhasi-gadge?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/suhasi-gadge?label=Total%20Stars&style=flat-square)](https://github.com/suhasi-gadge)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhasi-gadge&theme=minimal&hide_border=true&area=true)](https://github.com/suhasi-gadge)
 
 ---
 
